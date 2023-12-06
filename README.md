@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Pietro!</strong>
 
-<img src="./img/me..png" alt="Eu" min-width="300px" max-width="300px" width="400px" align="right">
+<img class="me" src="./img/me..png" alt="Eu" width="400px" align="right"/>
 
 <p align="left"> 
   Olá, me chamo Pietro Mizael, e atualmente estudo Sistemas da Computação na UFF. Sou um desenvolvedor
