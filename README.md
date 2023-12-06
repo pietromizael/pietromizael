@@ -1,6 +1,6 @@
 ## Olá, meu nome é <strong>Pietro!</strong>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="./img/me..png" alt="Eu" min-width="300px" max-width="300px" width="400px" align="right">
 
 <p align="left"> 
   Olá, me chamo Pietro Mizael, e atualmente estudo Sistemas da Computação na UFF. Sou um desenvolvedor
