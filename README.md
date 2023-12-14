@@ -23,9 +23,9 @@
 <code><img height="32" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="vscocde"></code>
 <br><br>
 
-<div>
-[![pietromizael](https://github-readme-stats.vercel.app/api/top-langs/?username=pietromizael&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+[![pietromizael](https://github-readme-stats.vercel.app/api/top-langs/?username=pietromizael&hide=html&layout=compact&theme=dark)]
+
 
 <h2>Onde me encontrar</h2>
 
