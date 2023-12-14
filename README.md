@@ -17,12 +17,15 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" alt="PostegreSQL"/><code>
 
-<h1 align="left">
+<h2 align="left">
 💼 Ferramenta:
-</h1>
+</h2>
 <code><img height="32" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="vscocde"></code>
+<br><br>
 
+<div>
 [![pietromizael](https://github-readme-stats.vercel.app/api/top-langs/?username=pietromizael&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 <h2>Onde me encontrar</h2>
 
