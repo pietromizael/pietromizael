@@ -22,8 +22,6 @@
 </h1>
 <code><img height="32" src="https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC" alt="vscocde"></code>
 
-[![pietromizael](https://github-readme-stats.vercel.app/api/top-langs/?username=pietromizael&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
 <h2>Onde me encontrar</h2>
 
 [![Linkedin](https://img.shields.io/badge/-Pietro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pietro-mizael-a863b3252/)](https://www.linkedin.com/in/pietro-mizael-a863b3252/)
